@@ -1,5 +1,7 @@
 # goingnative
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ceejbot/goingnative.svg)](https://greenkeeper.io/)
+
 **A NodeSchool style workshopper for learning how to write native Node.js addons**
 
 ***Please note this is a work in progress and is far from complete, come back later if you're wanting to actually use it***
